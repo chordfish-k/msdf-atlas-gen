@@ -20,7 +20,8 @@ project "msdf-atlas-gen"
 	{
 		"msdf-atlas-gen",
 		"msdfgen",
-		"msdfgen/include"
+		"msdfgen/include",
+		"artery-font-format"
 	}
 
 	defines
